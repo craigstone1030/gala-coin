@@ -68,3 +68,4 @@ contract Gala is ERC20("Gala", "GALA"), ERC20Burnable, MinterRole {
         _removeMinter(account);
     }
 }
+
